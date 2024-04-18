@@ -21,10 +21,11 @@
 title: Gluten Free Voyage
 email: alexandkevintravel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-Your ultimate guide to navigating the world of gluten-free living with ease, flavor, and adventure.
-
-url: "https://glutenfreevoyage.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://glutenfreevoyage.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
