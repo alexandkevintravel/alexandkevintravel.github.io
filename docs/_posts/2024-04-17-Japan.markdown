@@ -5,6 +5,10 @@ date:   2024-04-17 11:25:25 -0800
 categories: travel
 ---
 
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 # Itinerary
 
 ## Tokyo - Day 1
