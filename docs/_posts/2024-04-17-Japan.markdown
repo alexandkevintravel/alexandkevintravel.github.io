@@ -9,7 +9,12 @@ categories: travel
 * Do not remove this line (it will not be displayed)
 {:toc}
 
+
+
+
 # Itinerary
+<br />
+<br />
 
 ## Tokyo - Day 1
 
@@ -26,6 +31,11 @@ We arrived on Friday and decided that we would stay up until 9PM so we could adj
 ## Osaka - Day 2
 
 ## Osaka - Day 3
+
+<br />
+<br />
+<br />
+
 
 
 # Gluten Free
